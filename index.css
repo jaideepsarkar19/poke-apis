@@ -12,11 +12,11 @@ html,body{
     margin: auto;
     width: 90%;
     padding: 10px;
-    backgound:hsla(0, 0%, 0%, 0.119);
+    background:hsla(0, 0%, 0%, 0.119);
 }
 
 #header-container {
-    border-radius: 0px !important;
+    border-radius: 0px;
     }
 
 #header-text{
